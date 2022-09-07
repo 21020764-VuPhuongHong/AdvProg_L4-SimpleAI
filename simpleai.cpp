@@ -3,7 +3,7 @@
 int readMaxGuess()
 {
     int maxGuess;
-    cout << endl << "Enter the number of incorrect guesses *change*: ";
+    cout << endl << "Enter the number of incorrect guesses: ";
     cin >> maxGuess;
     return maxGuess;
 }
